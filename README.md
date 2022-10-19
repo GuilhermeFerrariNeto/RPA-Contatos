@@ -1,0 +1,1 @@
+Bot usado para a coleta de contatos de clientes
